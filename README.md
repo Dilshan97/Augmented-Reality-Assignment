@@ -4,14 +4,14 @@ This project is based on the SLIIT 4 Years Modern Topics in IT Module. we are us
 
 [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs/)
 
+### Live Demo [click here](http://sliit-ar.tk/)
+
 ### Team Members
 
  - [@Dilshan](https://github.com/Dilshan97)
  - [@Rusiru](https://github.com/Rusiru123)
  - [@Supun](https://github.com/kavsu)
  - [@Kushan](https://github.com/Kushanrawindu)
-
-### Live Demo 
 
 ### References
 
