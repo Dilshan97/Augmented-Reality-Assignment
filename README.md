@@ -19,3 +19,4 @@ This project is based on the SLIIT 4 Years Modern Topics in IT Module. we are us
  - [Create your Own Marker](https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105)
  - [AR.js Blog](https://aframe.io/blog/arjs/)
  - [Free 3D Models](https://sketchfab.com/search?q=artifacts%20free%20download&sort_by=-pertinence&type=models)
+ - [marker-training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
