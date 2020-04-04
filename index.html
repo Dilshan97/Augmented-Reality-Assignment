@@ -16,6 +16,7 @@
             <a-asset-item id="asst1-obj" src="objects/Emp_Trajan.obj"></a-asset-item>
             <a-asset-item id="monu.obj" src="objects/sculpt.obj"></a-asset-item>
             <a-asset-item id="violino-obj" src="objects/Violino.obj"></a-asset-item>
+            <a-asset-item id="st-obj" src="objects/angelyy.obj"></a-asset-item>
         </a-assets>
 
         <a-marker type="pattern" url="assets/pattern-rusiru.patt">
@@ -37,6 +38,13 @@
             material="src: objects/Violino_My001CompleteMap.jpg" position="-0.5 0.05 0" rotation="0 180 0" scale="0.002 0.002 0.002"></a-entity>
           <a-entity  text = "value: Violin; color: black; wrap-count: 10" position="0 0.3 0.55"></a-entity>
           <a-entity text = "value: Supun; color: black; wrap-count: 10" position="0 0 0.55"></a-entity>
+		</a-marker>
+
+		<a-marker type="pattern" url="assets/pattern-kushan.patt">
+			<a-entity obj-model="obj: #st-obj;"
+				material="src: objects/tex_0.jpeg" position="0 0 0" rotation="0 180 0" scale="0.00005 0.00005 0.00005"></a-entity>	
+			<a-entity position="0 0.3 1" text = "value: Statue; color: #800000; wrap-count: 10"></a-entity>
+			<a-entity position="0 0 1" text = "value: Kushan; color: #FF0000; wrap-count: 10"></a-entity>
 		</a-marker>
         <a-entity camera></a-entity>
     </a-scene>   
