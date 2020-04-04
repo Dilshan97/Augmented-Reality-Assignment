@@ -44,7 +44,7 @@ This project is based on the SLIIT 4 Years Modern Topics in IT Module. we are us
 
 ### How to use
 
- 1. Download maker file Using this [URL](https://github.com/Dilshan97/Augmented-Reality-Assignment/downloads)
+ 1. Download maker file Using this [URL](https://github.com/Dilshan97/Augmented-Reality-Assignment/tree/master/downloads)
  
  2. Open your mobile phone web browser and navigate this [URL](http://sliit-ar.tk)
  3. Then Enjoy it ! 😂😂
